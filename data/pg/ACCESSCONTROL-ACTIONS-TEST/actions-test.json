@@ -18332,7 +18332,7 @@
         "enabled": true,
         "serviceCode": "bnd",
         "code": "null",
-        "path": "cbbnd.BirthRecordsCountReport",
+        "path": "BirthRecordsCountReport",
         "navigationURL": "report/rainmaker-bnd/BirthRecordsCountReport",
         "leftIcon": "action:assignment",
         "rightIcon": ""
@@ -18371,7 +18371,7 @@
         "enabled": true,
         "serviceCode": "bnd",
         "code": "null",
-        "path": "cbbnd.DeathRecordsCountReport",
+        "path": "DeathRecordsCountReport",
         "navigationURL": "report/rainmaker-bnd/DeathRecordsCountReport",
         "leftIcon": "action:assignment",
         "rightIcon": ""
@@ -18398,7 +18398,7 @@
         "enabled": true,
         "serviceCode": "bnd",
         "code": "null",
-        "path": "cbbnd.BirthAndDeathCertificatePayment",
+        "path": "BirthAndDeathCertificatePayment",
         "navigationURL": "report/rainmaker-bnd/BirthAndDeathCertificatePayment",
         "leftIcon": "action:assignment",
         "rightIcon": ""
