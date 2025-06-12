@@ -12939,7 +12939,7 @@
         "enabled": true,
         "serviceCode": "DSS",
         "code": "null",
-        "path": "Dashboard.Home",
+        "path": "Home",
         "navigationURL": "integration/dss/home",
         "leftIcon": "places:business-center",
         "rightIcon": ""
